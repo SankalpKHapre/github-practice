@@ -10,7 +10,9 @@ function App() {
   const [trivia, setTrivia] = React.useState({})
   const [page,setPage] = React.useState("meow") 
   console.log("Component rendered")
-  
+  console.log("Component rendered")
+  console.log("Component rendered")
+ 
       
 
   React.useEffect(function() {
